@@ -8,9 +8,13 @@ This presentation is for the Investors to instill confidence in the bike-sharing
 
 * For Cleaning the data, we have used python to convert the column type from integer to DateTime.
 
+* [link to dashboard] https://public.tableau.com/app/profile/afreen7671/viz/BikeShareRide-CitibikeAugustdata/BikeShareRide-CitibikeAugustData?publish=yes
+
 ## Results:
 
 ### User Type
+
+![Screenshot 2022-02-06 205112](https://user-images.githubusercontent.com/92698873/152726686-1ea2739d-b4f1-4b7e-9746-36830e05c959.png)
 
 From the chart, it is clear that the people who use bikes sharing services are the subscribers and the single-use customers are mostly tourists.
 
@@ -49,6 +53,8 @@ Below are the findings from the analysis -
 
 ### Bikes Checkout Times by Gender
 
+![2](https://user-images.githubusercontent.com/92698873/152726752-d76f1602-4a89-4048-9668-970f5858b883.png)
+
 * In NYC August data - 72.23% bikes have been used by Male, 22.82% by females, and 4.94% by others.
 
 * We may need to attract more women to use our bike rental services in Des Moines, by offering different colors, sizes, storage compartments in our rental bikes.
@@ -74,7 +80,7 @@ Below are the findings from the analysis -
 
 * Total usage for Male suscriber on Sunday - 9.56% ,Monday - 14.32%, Tuesday -14.90% , wednesday - 12.61 %, Thursday - 18.89%, Friday - 17.02 and saturday - 12.70% 
 
-## Summary: Provide a high-level summary of the results and two additional visualizations that you would perform with the given dataset.
+## Summary:
 
 * According to the United States Census Bureau, New York City has a population of 8.419 million and Des Moines has a population of 215,636. So we can expect all the numbers small compared to New York City bike shared data.
 
